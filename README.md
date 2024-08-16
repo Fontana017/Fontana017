@@ -19,6 +19,6 @@
 <div>
   <a href = "matheusfontana017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fontana-57160a2b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   <a href = "[matheusfontana017@gmail.com](https://judge.beecrowd.com/pt/profile/1037290)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://judge.beecrowd.com/pt/profile/1037290"><img src="./assets/beecrowd.png" target="_blank"></a>
   </a>
 </div>
